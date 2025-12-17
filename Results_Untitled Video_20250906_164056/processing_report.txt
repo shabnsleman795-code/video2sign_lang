@@ -1,0 +1,10 @@
+Demucs Audio Separation Report
+========================================
+Original file: /content/drive/MyDrive/lastexample/Untitled Video.mp4
+Processing date: 2025-09-06 16:41:12.943018
+Model used: htdemucs
+Results directory: /content/drive/MyDrive/lastexample/Results_Untitled Video_20250906_164056
+
+Generated files:
+- Vocals/no_vocals.wav
+- Vocals/vocals.wav

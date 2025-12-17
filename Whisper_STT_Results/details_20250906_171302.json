@@ -1,0 +1,29 @@
+{
+  "text": " People use phone every day each time.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.1,
+      "text": " People use phone every day each time.",
+      "tokens": [
+        50365,
+        3432,
+        764,
+        2593,
+        633,
+        786,
+        1184,
+        565,
+        13,
+        50470
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3182289817116477,
+      "compression_ratio": 0.8222222222222222,
+      "no_speech_prob": 0.10863256454467773
+    }
+  ],
+  "language": "en"
+}
